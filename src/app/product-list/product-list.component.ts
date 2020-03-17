@@ -13,7 +13,7 @@ export class ProductListComponent implements OnInit {
   }
 
   product : Product ={
-    name:'phương',
+    name:'phươngaaaaaaaaaaaaaaaaaaaaaa',
     price:24.99 ,
    desc :'Vũ Hoài Phương',
    img: 'http://placehold.it/700x400',
