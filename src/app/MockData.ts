@@ -38,7 +38,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 5",
         price:12.12,
        desc :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     },
     {
@@ -46,7 +46,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 6",
         price:12.12,
        desc :"Vũ Hoài Phương",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     },
     {
@@ -54,7 +54,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 7",
         price:12.12,
        desc :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     },
     {
@@ -62,7 +62,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 8",
         price:12.12,
        desc :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     },
     {
@@ -70,7 +70,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 9",
         price:12.12,
        desc :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     },
     {
@@ -78,7 +78,7 @@ export const Data : Product[]  = [
         name:"Sản phẩm 10",
         price:12.12,
        desc :"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!",
-       img: 'http://placehold.it/700x400',
+       img: 'https://dummyimage.com/275x175/000/fff',
        status:true
     }
 ]
